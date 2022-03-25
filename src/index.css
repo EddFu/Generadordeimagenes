@@ -1,3 +1,29 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+.button-generator {
+    background-color: #1C4C96;
+    margin: 0 0 20px 0;
+    border-radius: 5px;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.guide-container{
+    margin: 50px auto;
+}
+
+.button-cleaner{
+    display: block;
+    margin: 0 auto;
+    color: #1C4C96;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.container-img {
+    padding: 4px;
+    margin-top: 20px;
+}
